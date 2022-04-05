@@ -4,7 +4,7 @@
 // @version      1.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://minglun.topschool.tw/*
+// @match        https://test.test.test/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=topschool.tw
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js
